@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile 👨‍💻
+# Hi , I'm Varun 👨‍💻
 
 ### **Varun Haridas**  
 *B.Tech in Artificial Intelligence & Data Science* | CEO @ **Hire Kerala** | AI Enthusiast | Open-Source Contributor  
