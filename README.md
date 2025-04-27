@@ -2,7 +2,7 @@
 
 ### **Varun Haridas**  
 *B.Tech in Artificial Intelligence & Data Science* | CEO @ **Hire Kerala** | AI Enthusiast | Open-Source Contributor  
-[LinkedIn](https://www.linkedin.com/in/varun-haridas) | [GitHub](https://github.com/varunharidas321) | Email: varunharidas.in@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/varun-haridas) | [GitHub](https://github.com/varunharidas321) | Email: varun.haridas.in@gmail.com  
 
 ---
 
@@ -15,34 +15,28 @@ I am passionate about contributing to **open-source projects** and continuously 
 
 ## 🛠 Technologies & Tools
 **Programming Languages:**
-![Python]![image](https://github.com/user-attachments/assets/8b1847a5-8bad-415e-a323-280fe40618f7)
-
-![JavaScript]![image](https://github.com/user-attachments/assets/eb307b3f-1cb3-4be4-8d9e-5e82c81313b2)
-
-![C++]![image](https://github.com/user-attachments/assets/81e57705-c8d6-407d-83bf-200ae26b5edf)
-
-![Java]![image](https://github.com/user-attachments/assets/f7beb217-8c40-4b1f-8612-051093fee140)
-
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-11-red?logo=java&logoColor=white)
 
 **Frameworks & Libraries:**
-![React]![image](https://github.com/user-attachments/assets/0767e660-47c0-4cb7-9feb-7b379fad130b)
-
-![TensorFlow]![image](https://github.com/user-attachments/assets/48e6c139-1d32-499f-ab6f-c95954217952)
-
-![Node.js]![image](https://github.com/user-attachments/assets/43db1b5a-0586-4244-bd73-b50f148f7c57)
+![React](https://img.shields.io/badge/React-16.13.1-61DAFB?logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-FF6F00?logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-14-green?logo=node.js&logoColor=white)
 
 **Databases & Tools:**
-!MySQL
-!Oracle
-!Docker
+![MySQL](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-12c-FF4F00?logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white)
 
 **Design Tools:**
-!Figma
-!Canva
+![Figma](https://img.shields.io/badge/Figma-3F0B45?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FF3A5A?logo=canva&logoColor=white)
 
 **Cloud & DevOps:**
-!AWS
-!GitHub Actions
+![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflow-blue?logo=github-actions&logoColor=white)
 
 ---
 
@@ -62,8 +56,8 @@ Developed an ML-based stock market prediction model that automates trading strat
 ---
 
 ## 🏆 Certifications & Achievements
-!Cambridge Certification
-!V-Guard Design Competition Finalist
+![Cambridge Certification](https://img.shields.io/badge/Certification-Cambridge%20Business%20English-B2-0066CC?logo=cambridge&logoColor=white)
+![V-Guard Design Competition Finalist](https://img.shields.io/badge/V%2DGuard%20Design%20Competition-Finalist%20Top%208-green)
 
 - **V-Guard Big Idea Design Competition** - Finalist (Top 8)
 - **Cambridge University Linguaskill** - Business English (B2 Level)
