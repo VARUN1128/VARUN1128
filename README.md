@@ -40,20 +40,36 @@ I am passionate about contributing to **open-source projects** and continuously 
 
 ---
 
-## 🧠 Current Projects
-### **VeeCook - Automated Curry Maker**  
-AI-powered cooking device that automates curry preparation with minimal human intervention. Project is 100% complete.
+## 🚀 Projects
 
-### **Open Source Airtable Alternative**  
-Developing a robust, open-source alternative to Airtable that provides businesses with customizable database management and workflow automation.
+### ⚙️ VeeCook - Automated Curry Maker  
+An AI-powered cooking machine that automates curry preparation from ingredient dispensing to stirring.  
+✅ Project completed with features like recipe app integration, remote control, and smart temperature management.
 
-### **Coconut Maturity Detection App**  
-AI-powered application that helps farmers determine the optimal time for harvesting coconuts with 87.91% accuracy.
+### 📊 Open Source Airtable Alternative  
+Developing a free and customizable alternative to Airtable with advanced workflow automation.  
+🌱 In progress
 
-### **Machine Learning for Trading**  
-Developed an ML-based stock market prediction model that automates trading strategies by analyzing trends and patterns in real-time stock data.
+### 🌴 Coconut Maturity Detection App  
+AI model that helps farmers detect coconut maturity levels from images with 87.91% accuracy using deep learning.  
+🌱 In progress
 
----
+### 📈 Machine Learning for Stock Trading  
+An automated trading assistant using ML models to analyze market patterns and optimize buy/sell decisions.  
+🌱 In progress
+
+### 💬 CoupleSpy.AI  
+An AI tool to monitor relationships (with consent) by analyzing Instagram chats for flirtation, manipulation, and sentiment using NLP.  
+Features:  
+- Real-time analysis & alerts  
+- Sentiment tracking  
+- Consent-based, privacy-first approach  
+🌱 In progress
+
+### 🧪 Self-Learning Hardware Platform  
+Interactive learning system that teaches students electronics via real-time circuit simulation, YouTube integration, and guided tutorials. 
+
+🌱 In progress
 
 ## 🏆 Certifications & Achievements
 ![Cambridge Certification](https://img.shields.io/badge/Certification-Cambridge%20Business%20English-B2-0066CC?logo=cambridge&logoColor=white)
