@@ -48,11 +48,11 @@ An AI-powered cooking machine that automates curry preparation from ingredient d
 
 ### 📊 Open Source Airtable Alternative  
 Developing a free and customizable alternative to Airtable with advanced workflow automation.  
-🌱 In progress
+
 
 ### 🌴 Coconut Maturity Detection App  
 AI model that helps farmers detect coconut maturity levels from images with 87.91% accuracy using deep learning.  
-🌱 In progress
+
 
 ### 📈 Machine Learning for Stock Trading  
 An automated trading assistant using ML models to analyze market patterns and optimize buy/sell decisions.  
@@ -64,12 +64,12 @@ Features:
 - Real-time analysis & alerts  
 - Sentiment tracking  
 - Consent-based, privacy-first approach  
-🌱 In progress
+
 
 ### 🧪 Self-Learning Hardware Platform  
 Interactive learning system that teaches students electronics via real-time circuit simulation, YouTube integration, and guided tutorials. 
 
-🌱 In progress
+
 
 ## 🏆 Certifications & Achievements
 ![Cambridge Certification](https://img.shields.io/badge/Certification-Cambridge%20Business%20English-B2-0066CC?logo=cambridge&logoColor=white)
