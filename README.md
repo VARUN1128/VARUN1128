@@ -23,6 +23,8 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-C%2B-blueviolet?style=for-the-badge)
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VARUN1128&theme=github_dark" alt="GitHub Stats Card"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VARUN1128&theme=github_dark&utcOffset=5" alt="Productive Time Card"/>
