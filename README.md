@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/VARUN1128" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
 
@@ -34,7 +34,7 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,docker,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,typescript,react,nextjs,nodejs,docker,mqtt,supabase,cpp" />
 </p>
 
 ---
@@ -43,17 +43,17 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 
 <p align="center">
 
-  <!-- GitHub Trophies -->
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical" alt="Top Languages" />
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Top Languages (Excluding HTML) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical&hide=html,css,shell" alt="Top Languages" />
 
 </p>
 
