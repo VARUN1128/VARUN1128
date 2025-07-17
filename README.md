@@ -89,8 +89,8 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
 **Certifications:**
 
-- SQL Advanced Certification (HackerRank)
-- Software Engineer Certification (HackerRank)
+- SQL Advanced Certification 
+- Software Engineer Certification 
 - Google Analytics Certified
 - Geo-Mapping Certification (NSS)
 - Cambridge Linguaskill Business English (B2)
@@ -106,5 +106,5 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 ---
 
 <p align="center">
-  🚀 Building real-world AI solutions | 💬 Let’s collaborate!
+  Building real-world AI solutions | 💬 Let’s collaborate!
 </p>
