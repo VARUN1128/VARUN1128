@@ -39,15 +39,29 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 
 ---
 
-## 📊 Skills Progress
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-65%25-yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter-60%25-orange)
-![LLMs](https://img.shields.io/badge/LLMs-60%25-orange)
-![DevOps](https://img.shields.io/badge/DevOps-50%25-lightgrey)
-![Docker](https://img.shields.io/badge/Docker-70%25-blue)
-![Real-Time+Systems](https://img.shields.io/badge/Real--Time+Systems-75%25-blue)
+### 🍲 AI-Powered Cooking System
+An automated curry-making system integrating AI-controlled ingredients dispensing and cooking logic.
+
+**Key Tech:** Python, ML models, Automation, Embedded Systems  
+[🔗 View Project Demo](https://tinyurl.com/y4am659r)
+
+---
+
+### 🥥 Coconut Maturity Detection
+A Computer Vision-based model predicting coconut maturity with **87.91% accuracy**, supporting precision agriculture.
+
+**Key Tech:** Python, OpenCV, PyTorch, TensorFlow  
+[🔗 View Project](https://tinyurl.com/y4am659r)
+
+---
+
+<p align="center">
+  <a href="https://tinyurl.com/y4am659r" target="_blank">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/>
+  </a>
+</p>
 
 ---
 
@@ -55,14 +69,13 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 
 <p align="center">
 
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <!-- GitHub Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=html,css,shell,dockerfile,markdown&langs_count=6&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
 
 </p>
 
@@ -91,10 +104,6 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/>
-</p>
 
 <p align="center">
   🚀 Building real-world AI solutions | 💬 Let’s collaborate!
