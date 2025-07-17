@@ -69,15 +69,20 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
 <p align="center">
 
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Contribution Streak (Reliable Link) -->
+  <img src="https://streak-stats.demolab.com/?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=html,css,shell,dockerfile,markdown&langs_count=6&theme=radical" alt="Top Languages" />
 
 </p>
+
 
 ---
 
