@@ -22,9 +22,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VARUN1128&theme=github_dark" alt="GitHub Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VARUN1128&theme=github_dark&utcOffset=5" alt="Productive Time Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VARUN1128&theme=github_dark" alt="Top Languages Card"/>
 </p>
 
 ---
@@ -44,10 +46,11 @@
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=react-dark" />
 </p>
 
 ---
 
-
+⭐️ Inspired by real-world solutions, aiming to build impactful systems.
