@@ -8,11 +8,16 @@
 
 <p align="center">
   <b>Junior AI Engineer | Kochi, India</b><br>
-  <a href="https://www.linkedin.com/in/varun-haridas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://github.com/VARUN1128" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  </p>
+  <a href="https://www.linkedin.com/in/varun-haridas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/VARUN1128" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
+
 ## 💡 About Me
 
 I’m a Junior AI Engineer passionate about building scalable, production-ready AI systems. With hands-on experience in machine learning, real-time data pipelines, and full-stack applications, I thrive at the intersection of AI and backend engineering.
@@ -36,12 +41,20 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 
 ## 📊 GitHub Stats
 
-![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-C%2B-blueviolet?style=for-the-badge")
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VARUN1128&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VARUN1128&theme=github_dark&utcOffset=5" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VARUN1128&theme=github_dark" alt="Languages Used" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=onedark&no-bg=true&margin-w=15&column=6" alt="Trophies" />
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&border_radius=10" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical&hide_title=true&border_radius=10" alt="Top Languages" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true&border_radius=10" alt="Streak Stats" />
+
 </p>
 
 ---
