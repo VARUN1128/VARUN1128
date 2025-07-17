@@ -3,7 +3,23 @@
 **Junior AI Engineer** | Kochi, India  
 [LinkedIn](https://www.linkedin.com/in/varun-haridas) • [GitHub](https://github.com/VARUN1128)
 
-🚀 Passionate about building real-time AI-powered solutions and deploying LLM & computer vision models to production.
+---
+
+## 💡 About Me
+
+I am a Junior AI Engineer passionate about building scalable, real-time AI-powered solutions. With experience developing machine learning models, real-time data pipelines, and full-stack applications, I’m continuously expanding my skills in AI, backend systems, and DevOps.
+
+📚 I'm currently learning:
+- Advanced DevOps and CI/CD Pipelines  
+- Real-Time Data Processing with MQTT  
+- Scalable LLM & Computer Vision Deployments
+
+🚀 I’m eager to contribute to meaningful projects and collaborate with other developers and AI enthusiasts.
+
+✔ Feel free to ask me about AI/ML, backend APIs, or tech-related topics!  
+Outside tech, I enjoy exploring new technologies, mentoring, and working on innovative problem-solving ideas.
+
+📫 Reach out to me at: varun.haridas321@gmail.com
 
 ---
 
