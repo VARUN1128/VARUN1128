@@ -43,21 +43,20 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 
 <p align="center">
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&row=1" alt="Trophies" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
 
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- Top Languages (Excluding HTML) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical&hide=html,css,shell" alt="Top Languages" />
+  <!-- Top Languages (Excluding HTML/CSS) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=html,css,shell&theme=radical" alt="Top Languages" />
 
 </p>
 
----
 
 ## 🏆 Achievements & Certifications
 
