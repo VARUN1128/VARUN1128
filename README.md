@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Varun Haridas 👋</h1>
+<h1 align="center">
+  Hi, I'm Varun Haridas 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+AI+Engineer+from+India;Building+AI-powered+solutions;Deploying+LLM+and+CV+Models;Let’s+build+something+amazing!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Junior AI Engineer | Kochi, India</b><br>
@@ -22,22 +28,15 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-FF6600?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,docker,supabase" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-C%2B-blueviolet?style=for-the-badge)
+![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-C%2B-blueviolet?style=for-the-badge")
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VARUN1128&theme=github_dark" alt="GitHub Stats" />
@@ -67,6 +66,10 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/>
+</p>
 
 <p align="center">
   🚀 Building real-world AI solutions | 💬 Let’s collaborate!
