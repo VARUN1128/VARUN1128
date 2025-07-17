@@ -1,124 +1,186 @@
-# Hi , I'm Varun 👨‍💻
-
-### **Varun Haridas**  
-*B.Tech in Artificial Intelligence & Data Science* | CEO @ **Hire Kerala** | AI Enthusiast | Open-Source Contributor  
-[LinkedIn](https://www.linkedin.com/in/varun-haridas) | [GitHub](https://github.com/varunharidas321) | Email: varun.haridas.in@gmail.com  
-
----
-
-## 🚀 About Me
-I am an **AI enthusiast** and **entrepreneur** currently pursuing my **B.Tech in Artificial Intelligence & Data Science** at **Muthoot Institute of Technology and Science**. With a strong foundation in **machine learning**, **data science**, and **full-stack development**, I am dedicated to creating innovative solutions that solve real-world problems. I am also the **CEO of Hire Kerala**, a platform dedicated to connecting verified migrant workers with employers across Kerala.
-
-I am passionate about contributing to **open-source projects** and continuously pushing the envelope on emerging technologies like **AI**, **IoT**, and **automation**.
-
----
-
-## 🛠 Technologies & Tools
-**Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-11-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11-red?logo=java&logoColor=white)
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-16.13.1-61DAFB?logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-FF6F00?logo=tensorflow&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-14-green?logo=node.js&logoColor=white)
-
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-12c-FF4F00?logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white)
-
-**Design Tools:**
-![Figma](https://img.shields.io/badge/Figma-3F0B45?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-FF3A5A?logo=canva&logoColor=white)
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflow-blue?logo=github-actions&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### ⚙️ VeeCook - Automated Curry Maker  
-An AI-powered cooking machine that automates curry preparation from ingredient dispensing to stirring.  
-✅ Project completed with features like recipe app integration, remote control, and smart temperature management.
-
-### 📊 Open Source Airtable Alternative  
-Developing a free and customizable alternative to Airtable with advanced workflow automation.  
-
-
-### 🌴 Coconut Maturity Detection App  
-AI model that helps farmers detect coconut maturity levels from images with 87.91% accuracy using deep learning.  
-
-
-### 📈 Machine Learning for Stock Trading  
-An automated trading assistant using ML models to analyze market patterns and optimize buy/sell decisions.  
-🌱 In progress
-
-### 💬 CoupleSpy.AI  
-An AI tool to monitor relationships (with consent) by analyzing Instagram chats for flirtation, manipulation, and sentiment using NLP.  
-Features:  
-- Real-time analysis & alerts  
-- Sentiment tracking  
-- Consent-based, privacy-first approach  
-
-
-### 🧪 Self-Learning Hardware Platform  
-Interactive learning system that teaches students electronics via real-time circuit simulation, YouTube integration, and guided tutorials. 
+Hi , I'm Varun 👨‍💻
+Varun Haridas
+Junior AI Engineer  | Kochi, India 
 
 
 
-## 🏆 Certifications & Achievements
-![Cambridge Certification](https://img.shields.io/badge/Certification-Cambridge%20Business%20English-B2-0066CC?logo=cambridge&logoColor=white)
-![V-Guard Design Competition Finalist](https://img.shields.io/badge/V%2DGuard%20Design%20Competition-Finalist%20Top%208-green)
+B.Tech in Artificial Intelligence & Data Science | AI Enthusiast | Open-Source Contributor
 
-- **V-Guard Big Idea Design Competition** - Finalist (Top 8)
-- **Cambridge University Linguaskill** - Business English (B2 Level)
-- **1st Prize** - Money Conclave '24
-- **Runner-up** - PERCEPTION National Level Hackathon
-- **Intern at CIDRIE, Ernakulam** - Experience in embedded systems and IoT applications.
+LinkedIn | GitHub | Email: varunharidas.in@gmail.com 
 
----
+🚀 About Me
+I am an early-career AI engineer with hands-on experience architecting real-time data pipelines and scalable web applications to operationalize machine-learning solutions. I have a proven ability to integrate MQTT-based telemetry, design RESTful APIs, and optimize system stability for monitoring platforms. I am passionate about deploying computer-vision models and LLM-powered features in production environments.
 
-## 📈 GitHub Stats  
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunharidas321&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
----
 
-## 🌐 Connect with Me
+I'm currently learning: Expanding my knowledge in neural networks, NLP, and reinforcement learning, and exploring decentralized applications and smart contracts.
+
+I'm looking to collaborate on: Open-source projects related to AI, IoT, and automation.
+
+I'm looking for help with: Connecting with like-minded professionals and innovators in the tech space.
+
+Ask me about: AI, data science, full-stack development, entrepreneurship, and open-source contributions.
+
+
+How to reach me: Through my LinkedIn, GitHub, or Email.
+
+🛠 Skills
+Languages & Syntax
+
+
+
+
+
+
+
+
+
+
+Frameworks & Libraries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Databases & Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platforms
+
+
+
+
+
+
+
+
+
+
+Areas of Expertise
+Model Development & Deployment: Prototyping CV and NLP models; containerized inference services 
+
+Real-Time Data Pipelines: MQTT ingestion, stream processing, error-log analytics 
+
+API & Microservices Design: Scalable REST/GraphQL endpoints with low latency 
+
+Monitoring & Observability: Grafana dashboards, automated alerting, performance tuning 
+
+Full-Stack Integration: End-to-end feature delivery from data layer through front-end UX 
+
+LLM Applications: Prompt engineering, embedding indexing, API integration 
+
+🚀 Projects
+⚙️ AI-powered Cooking System
+Designed an AI-powered cooking system automating curry preparation with minimal human input.
+
+🌴 Coconut Maturity Detection App
+Developed AI model to detect coconut maturity levels with 87.91% accuracy, helping farmers improve yield efficiency.
+
+More projects: 
+
+https://tinyurl.com/y4am659r 
+
+🏆 Awards & Certifications
+
+SQL Advanced Certification, HackerRank 
+
+
+Software Engineer Certification, HackerRank 
+
+
+Google Analytics Certification 
+
+
+Finalist, V-Guard Big Idea Design Competition (Top 8) 
+
+
+Winner, Money Conclave '24 
+
+
+Runner-up, Dev Summit '23 
+
+
+Runner-up, PERCEPTION National Hackathon 
+
+
+Runner-up, Rural India Agri Hackathon 
+
+
+Cambridge Linguaskill Business English (B2) 
+
+
+Geo-Mapping Certification, NSS 
+
+📈 GitHub Stats
+🌐 Connect with Me
 I am always open to collaborating with like-minded professionals and innovators in the tech space. Reach out to me through the following channels:
 
-- **LinkedIn**: [linkedin.com/in/varun-haridas](https://www.linkedin.com/in/varun-haridas)
-- **Email**: [varunharidas.in@gmail.com](mailto:varun.haridas321@gmail.com)
-- **GitHub**: [github.com/varunharidas321](https://github.com/varunharidas321)
+LinkedIn: linkedin.com/in/varun-haridas
 
----
 
-## 🚀 Featured Repositories
-- [**VeeCook - Automated Curry Maker**](https://github.com/varunharidas321/veecook)  
-- [**Machine Learning for Trading**](https://github.com/varunharidas321/stock-market-ml)  
-- [**Open Source Airtable Alternative**](https://github.com/varunharidas321/airtable-alternative)
+Email: varunharidas.in@gmail.com 
 
----
+GitHub: github.com/varunharidas321
 
-## 🌱 Learning & Exploring
-- **AI & Deep Learning**: Expanding my knowledge in neural networks, NLP, and reinforcement learning.
-- **Blockchain**: Exploring decentralized applications and smart contracts.
-- **IoT & Embedded Systems**: Building solutions to automate and optimize everyday tasks.
+🚀 Featured Repositories
+VeeCook - Automated Curry Maker
 
----
+Machine Learning for Trading
 
-## 🔥 Contribution to Open Source
-I actively contribute to open-source projects related to **AI**, **IoT**, and **automation**. If you’d like to collaborate or contribute, feel free to explore my repositories.
+Open Source Airtable Alternative
 
----
+🌱 Learning & Exploring
+AI & Deep Learning: Expanding my knowledge in neural networks, NLP, and reinforcement learning.
 
-## 📜 Highlights
-- **CEO at Hire Kerala**: Building a platform that connects verified migrant workers to employers.
-- **Founder of ScaleUp**: Supporting early-stage startups to scale efficiently.
-- **Co-Founder at LINC**: Helping youth embrace leadership and innovation.
+Blockchain: Exploring decentralized applications and smart contracts.
 
----
+IoT & Embedded Systems: Building solutions to automate and optimize everyday tasks.
+
+🔥 Contribution to Open Source
+I actively contribute to open-source projects related to AI, IoT, and automation. If you’d like to collaborate or contribute, feel free to explore my repositories.
+
+📜 Highlights
+Led a cross-functional team of four to implement real-time MQTT data ingestion, coordinating priorities between backend, QA, and DevOps engineers to achieve 99.5% system uptime.
+
+Collaborated with UI/UX designers and product managers to deliver React-based monitoring dashboards under a six-week deadline, ensuring intuitive visualization of AI-driven insights.
+
+Mentored two junior interns, coaching them on Next.js best practices and Git workflows, which accelerated feature delivery by 20%.
+
+Facilitated weekly knowledge-sharing sessions to juniors at LINC and TinkerHub.
+
+
+Campus Lead (2024-25) - TinkerHub MITS 
+
+
+Secretary (2024-25) - ACM MITS 
+
+
+Executive Member (2024-25) - NSS MITS 
+
+
+Program Facilitator (2023-24) - TinkerHub 
+
+
+Co-founder - LINC MITS Club 
+
