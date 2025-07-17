@@ -43,17 +43,17 @@ I’m a Junior AI Engineer passionate about building scalable, production-ready 
 
 <p align="center">
 
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=onedark&no-bg=true&margin-w=15&column=6" alt="Trophies" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&row=1" alt="Trophies" />
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&border_radius=10" alt="GitHub Stats" />
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical&hide_title=true&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=radical" alt="Top Languages" />
 
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true&border_radius=10" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </p>
 
