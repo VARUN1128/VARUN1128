@@ -27,7 +27,8 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 - 🤝 **Open to:** Freelance projects, collaborations, and innovative problem-solving.
 - 💬 **Let’s discuss:** AI/ML solutions, backend architecture, or impactful project ideas.
 
-📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com)
+📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com)  
+🌐 **Portfolio:** [this-is-me-tau.vercel.app](https://this-is-me-tau.vercel.app/)
 
 ---
 
