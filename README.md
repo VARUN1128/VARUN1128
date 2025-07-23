@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Varun Haridas 👋 
-</h1>
+</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+AI+Engineer+from+India;Building+AI-powered+solutions;Deploying+LLM+and+CV+Models;Let%E2%80%99s+build+something+amazing!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
