@@ -72,13 +72,14 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VARUN1128&repo=github-streak&title=Longest%20Streak&custom_title=🔥%20Longest%20Streak%20-%20110%20Days&theme=radical" alt="Hardcoded Longest Streak Card" />
+  <img src="https://img.shields.io/badge/🔥 Longest Streak-110 days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
 
 </p>
+
 
 ---
 
