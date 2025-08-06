@@ -72,7 +72,7 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN1128&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-110%20days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
@@ -90,10 +90,10 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
 **Certifications:**
 
-- SQL Advanced Certification 
-- Software Engineer Certification 
-- Google Analytics Certified
-- Geo-Mapping Certification (NSS)
+- SQL Advanced Certification  
+- Software Engineer Certification  
+- Google Analytics Certified  
+- Geo-Mapping Certification (NSS)  
 - Cambridge Linguaskill Business English (B2)
 
 ---
