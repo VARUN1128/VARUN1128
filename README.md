@@ -1,19 +1,19 @@
 <h1 align="center">
-  Hi, I'm Varun Haridas 👋 
-</h1> 
+  Hi, I'm Varun Haridas 👋 
+</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+AI+Engineer+from+India;Building+AI-powered+solutions;Deploying+LLM+and+CV+Models;Let%E2%80%99s+build+something+amazing!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+AI+Engineer+from+India;Building+AI-powered+solutions;Deploying+LLM+and+CV+Models;Let%E2%80%99s+build+something+amazing!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Junior AI Engineer | Kochi, India</b><br>
-  <a href="https://www.linkedin.com/in/varun-haridas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/VARUN1128" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+  <b>Junior AI Engineer | Kochi, India</b><br>
+  <a href="https://www.linkedin.com/in/varun-haridas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/VARUN1128" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 - 🤝 **Open to:** Freelance projects, collaborations, and innovative problem-solving.
 - 💬 **Let’s discuss:** AI/ML solutions, backend architecture, or impactful project ideas.
 
-📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com)  
+📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com)  
 🌐 **Portfolio:** [this-is-me-tau.vercel.app](https://this-is-me-tau.vercel.app/)
 
 ---
@@ -35,7 +35,7 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 ## 🛠️ Tech Stack & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,typescript,react,nextjs,nodejs,express,docker,mqtt,supabase,cpp,pytorch,tensorflow,mongodb,mysql,linux,git,vscode" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,jupyter,typescript,react,nextjs,nodejs,express,docker,mqtt,supabase,cpp,pytorch,tensorflow,mongodb,mysql,linux,git,vscode" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 ### 🍲 AI-Powered Cooking System
 An automated curry-making system integrating AI-controlled ingredients dispensing and cooking logic.
 
-**Key Tech:** Python, ML models, Automation, Embedded Systems  
+**Key Tech:** Python, ML models, Automation, Embedded Systems  
 [🔗 View Project Demo](https://tinyurl.com/y4am659r)
 
 ---
@@ -53,15 +53,15 @@ An automated curry-making system integrating AI-controlled ingredients dispensin
 ### 🥥 Coconut Maturity Detection
 A Computer Vision-based model predicting coconut maturity with **87.91% accuracy**, supporting precision agriculture.
 
-**Key Tech:** Python, OpenCV, PyTorch, TensorFlow  
+**Key Tech:** Python, OpenCV, PyTorch, TensorFlow  
 [🔗 View Project](https://tinyurl.com/y4am659r)
 
 ---
 
 <p align="center">
-  <a href="https://tinyurl.com/y4am659r" target="_blank">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/>
-  </a>
+  <a href="https://tinyurl.com/y4am659r" target="_blank">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/>
+  </a>
 </p>
 
 ---
@@ -69,15 +69,15 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 ## 📊 GitHub Insights
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
-
-  <img src="https://img.shields.io/badge/Longest%20Streak-110%20days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
-
+  <a href="https://github.com/VARUN1128">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARUN1128&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-125%20days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -90,10 +90,10 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 
 **Certifications:**
 
-- SQL Advanced Certification  
-- Software Engineer Certification  
-- Google Analytics Certified  
-- Geo-Mapping Certification (NSS)  
+- SQL Advanced Certification  
+- Software Engineer Certification  
+- Google Analytics Certified  
+- Geo-Mapping Certification (NSS)  
 - Cambridge Linguaskill Business English (B2)
 
 ---
@@ -101,11 +101,11 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=react-dark&hide_border=true&point=FFFFFF&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=react-dark&hide_border=true&point=FFFFFF&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  Building real-world AI solutions | 💬 Let’s collaborate!
+  Building real-world AI solutions | 💬 Let’s collaborate!
 </p>
