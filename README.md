@@ -22,9 +22,9 @@
 
 I’m an early-career **AI Engineer**, passionate about building **scalable, production-ready AI systems**. With experience in machine learning, real-time data pipelines, and full-stack development, I enjoy blending AI models with robust backend infrastructures.
 
-- 🛠️ **Exploring:** Advanced DevOps, CI/CD, scalable LLM deployment.
-- ⚙️ **Skilled in:** ML pipelines, MQTT telemetry, REST APIs, Computer Vision & LLM integration.
-- 🤝 **Open to:** Freelance projects, collaborations, and innovative problem-solving.
+- 🛠️ **Exploring:** Advanced DevOps, CI/CD, scalable LLM deployment.  
+- ⚙️ **Skilled in:** ML pipelines, MQTT telemetry, REST APIs, Computer Vision & LLM integration.  
+- 🤝 **Open to:** Freelance projects, collaborations, and innovative problem-solving.  
 - 💬 **Let’s discuss:** AI/ML solutions, backend architecture, or impactful project ideas.
 
 📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com)  
@@ -43,16 +43,14 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 ## 🚀 Featured Projects
 
 ### 🍲 AI-Powered Cooking System
-An automated curry-making system integrating AI-controlled ingredients dispensing and cooking logic.
-
+An automated curry-making system integrating AI-controlled ingredients dispensing and cooking logic.  
 **Key Tech:** Python, ML models, Automation, Embedded Systems  
 [🔗 View Project Demo](https://tinyurl.com/y4am659r)
 
 ---
 
 ### 🥥 Coconut Maturity Detection
-A Computer Vision-based model predicting coconut maturity with **87.91% accuracy**, supporting precision agriculture.
-
+A Computer Vision-based model predicting coconut maturity with **87.91% accuracy**, supporting precision agriculture.  
 **Key Tech:** Python, OpenCV, PyTorch, TensorFlow  
 [🔗 View Project](https://tinyurl.com/y4am659r)
 
@@ -65,38 +63,37 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 </p>
 
 ---
+
 ## 📊 GitHub Insights
 
 <p align="center">
 
-  <!-- GitHub Trophies -->
+  <!-- 🏆 GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <!-- GitHub Streak Stats (used ONLY for current streak & total contributions) -->
+  <!-- ⚡ Current Streak + Total Contributions (Longest streak hidden) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true&hide_longest_streak=true" alt="GitHub Streak - Current and Total Only" />
 
-  <!-- Custom Hardcoded Longest Streak Badge -->
+  <!-- 🔥 Custom Longest Streak Badge -->
   <img src="https://img.shields.io/badge/🔥 Longest Streak-110 days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
 
-  <!-- GitHub Stats -->
+  <!-- 📈 GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
+  <!-- 💻 Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
 
 </p>
-
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🏅 **Winner:** Money Conclave ’24 (AI-driven financial prediction model)
-- 🥈 **Runner-up:** Dev Summit ’23, PERCEPTION Hackathon, Rural India Agri Hackathon
+- 🏅 **Winner:** Money Conclave ’24 (AI-driven financial prediction model)  
+- 🥈 **Runner-up:** Dev Summit ’23, PERCEPTION Hackathon, Rural India Agri Hackathon  
 - 🎖️ **Finalist:** V-Guard Big Idea Design Competition (Top 8)
 
 **Certifications:**
-
 - SQL Advanced Certification  
 - Software Engineer Certification  
 - Google Analytics Certified  
