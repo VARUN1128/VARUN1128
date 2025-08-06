@@ -65,24 +65,27 @@ A Computer Vision-based model predicting coconut maturity with **87.91% accuracy
 </p>
 
 ---
-
 ## 📊 GitHub Insights
 
 <p align="center">
 
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 
-  <!-- Custom Badge for Longest Streak -->
+  <!-- GitHub Streak Stats (used ONLY for current streak & total contributions) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true&hide_longest_streak=true" alt="GitHub Streak - Current and Total Only" />
+
+  <!-- Custom Hardcoded Longest Streak Badge -->
   <img src="https://img.shields.io/badge/🔥 Longest Streak-110 days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" />
 
-  <!-- (Optional) Custom Current Streak Badge if you want to hardcode it -->
-  <!-- <img src="https://img.shields.io/badge/⚡ Current Streak-28 days-orange?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak Badge" /> -->
-
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" />
 
 </p>
+
 
 ---
 
