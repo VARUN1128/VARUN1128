@@ -35,8 +35,20 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 ## 🛠️ Tech Stack & Toolkit
 
 <p align="center">
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,express,docker,supabase,cpp,pytorch,tensorflow,mongodb,mysql,linux,git,vscode" alt="Tech Stack Icons"/>
+
+  <!-- Custom: OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50" height="40"/>
+
+  <!-- Custom: Keras -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="40"/>
 </p>
+
+<p align="center">
+  <i>Also familiar with:</i> <b>MQTT</b>, <b>Jupyter</b>, <b>SNAP (ESA)</b>
+</p>
+
 
 
 ---
