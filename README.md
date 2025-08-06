@@ -35,8 +35,9 @@ I’m an early-career **AI Engineer**, passionate about building **scalable, pro
 ## 🛠️ Tech Stack & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,typescript,react,nextjs,nodejs,express,docker,mqtt,supabase,cpp,pytorch,tensorflow,mongodb,mysql,linux,git,vscode" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,express,docker,supabase,cpp,pytorch,tensorflow,mongodb,mysql,linux,git,vscode" alt="Tech Stack Icons"/>
 </p>
+
 
 ---
 
