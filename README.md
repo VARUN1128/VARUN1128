@@ -1,179 +1,211 @@
 <h1 align="center">
-  Hi, I'm Varun Haridas 👋
+Hi 👋, I'm Varun Haridas
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+AI+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Full+Stack+Developer;Always+Learning+Something+New+🚀" />
-</p>
+<h3 align="center">
+AI Engineer • Full Stack Developer • MBA Candidate @ The School of Future
+</h3>
 
 <p align="center">
-  <b>Junior AI Engineer • Full Stack Developer • AI Enthusiast</b>
-  <br>
-  Kochi, Kerala 🇮🇳
-</p>
-
-<p align="center">
-  <a href="mailto:varunharidas.in@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/varun-haridas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/VARUN1128">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://this-is-me-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+%7C+Computer+Vision;LLMs+%7C+Generative+AI;Building+Production+Ready+AI+Applications;Full+Stack+Developer;Always+Learning+🚀" />
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm **Varun Haridas**, a passionate **Junior AI Engineer** focused on building intelligent applications that solve real-world problems.
+```python
+class VarunHaridas:
 
-I enjoy combining **Machine Learning**, **Computer Vision**, **LLMs**, and **Backend Engineering** to create scalable, production-ready AI systems.
+    location = "Kochi, India 🇮🇳"
 
-- 🤖 Building AI-powered products
-- 🚀 Exploring LLMs, RAG & AI Agents
-- 🧠 Computer Vision & Deep Learning enthusiast
-- ⚙️ Backend API Development
-- 🌱 Currently learning DevOps, Kubernetes & MLOps
-- 💬 Ask me about AI, ML, Python, React or Next.js
-- 🤝 Open for Freelance, Collaborations & AI Projects
+    role = "Junior AI Engineer"
+
+    education = [
+        "B.Tech Computer Science (AI)",
+        "MBA Candidate @ The School of Future"
+    ]
+
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Generative AI",
+        "LLMs",
+        "Backend Development",
+        "MLOps"
+    ]
+
+    currently_learning = [
+        "AI Agents",
+        "RAG",
+        "Kubernetes",
+        "CI/CD",
+        "MLOps"
+    ]
+
+    open_to = [
+        "Freelance",
+        "Research",
+        "Collaborations",
+        "Open Source"
+    ]
+```
 
 ---
 
-# 🛠 Tech Stack
-
-### 👨‍💻 Languages
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" />
+
+<a href="mailto:varunharidas.in@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varun-haridas/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/VARUN1128">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://this-is-me-tau.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
-### 🌐 Frontend
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql"/>
+
 </p>
 
-### ⚙️ Backend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,supabase" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
 </p>
 
-### 🤖 AI / ML
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,supabase,firebase"/>
+
+</p>
+
+### AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="45"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+
 </p>
 
-### 🛢 Database
+### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
 </p>
 
-### ☁️ DevOps & Tools
+### DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,vercel,postman" />
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vercel"/>
+
 </p>
 
-### 📚 Also Worked With
+### Also Worked With
 
 - MQTT
+- REST APIs
+- FastAPI
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- Jupyter
 - SNAP (ESA)
-- REST APIs
-- Computer Vision
-- Deep Learning
-- LLM Integration
+- Postman
+- QGIS
+- Google Gemini API
 
 ---
 
 # 🚀 Featured Projects
 
-## 🥥 Coconut Maturity Detection
+## 🛰 SAR Ship Detection
 
-Computer Vision system for detecting coconut maturity with **87.91% accuracy**, supporting precision agriculture.
+Deep Learning model for detecting ships from Sentinel-1 SAR imagery.
 
-**Tech Stack**
+**Tech**
 
-- Python
-- OpenCV
-- TensorFlow
-- PyTorch
-
-🔗 **Demo**
-
-https://tinyurl.com/y4am659r
+PyTorch • Computer Vision • GIS • Remote Sensing
 
 ---
 
-## 🍲 AI Powered Cooking System
+## 🥥 Coconut Maturity Detection
 
-AI-based automated cooking assistant integrating ingredient dispensing and cooking automation.
+Computer Vision system achieving **87.91% accuracy**.
 
-**Tech Stack**
+**Tech**
 
-- Python
-- Machine Learning
-- Automation
-- Embedded Systems
+Python • OpenCV • TensorFlow • PyTorch
 
-🔗 **Demo**
+---
 
-https://tinyurl.com/y4am659r
+## 🍳 AI Cooking Assistant
+
+AI-powered automated curry preparation system.
+
+**Tech**
+
+Python • Automation • Embedded Systems
 
 ---
 
 ## 🤖 AI Blog Generator
 
-Generate high-quality blogs using Gemini API with FastAPI backend.
+Generate blogs using Google's Gemini API.
 
-**Tech Stack**
+**Tech**
 
-- FastAPI
-- Gemini API
-- Python
-- REST APIs
+FastAPI • Gemini API • Python
 
 ---
 
-## 📍 SAR Ship Detection
+## 🏠 StayYo
 
-Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
+AI-powered PG discovery platform.
 
-**Tech Stack**
+**Tech**
 
-- PyTorch
-- Computer Vision
-- Remote Sensing
-- GIS
+Next.js • Supabase • TypeScript
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -183,7 +215,7 @@ Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VARUN1128&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -193,7 +225,7 @@ Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -203,7 +235,7 @@ Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
 
@@ -211,7 +243,7 @@ Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
 
 # 🏅 Achievements
 
-🥇 Winner — Money Conclave 2024
+🏆 Winner — Money Conclave 2024
 
 🥈 Runner-up — Dev Summit 2023
 
@@ -219,59 +251,63 @@ Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
 
 🥈 Runner-up — Rural India Agri Hackathon
 
-🏆 Finalist — V-Guard Big Idea Design Competition (Top 8)
+🏅 Finalist — V-Guard Big Idea Design Competition
 
 ---
 
 # 📜 Certifications
 
 - NPTEL Deep Learning (Elite)
-- SQL Advanced Certification
+- SQL Advanced
 - Software Engineer Certification
-- Google Analytics Certified
-- Cambridge Linguaskill Business English (B2)
+- Google Analytics
+- Cambridge Linguaskill B2
 - Geo Mapping Certification
 
 ---
 
-# 📊 Coding Profiles
+# 💼 Current Focus
 
-<p align="center">
+✅ AI Agents
 
-<a href="https://github.com/VARUN1128">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+✅ Large Language Models
 
-<a href="https://www.linkedin.com/in/varun-haridas/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+✅ Computer Vision
 
-<a href="mailto:varunharidas.in@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+✅ MLOps
 
-</p>
+✅ Backend Engineering
+
+✅ Scalable AI Infrastructure
 
 ---
 
-# 💬 Quote
+# 📫 Reach Me
 
-> **"I don't just build software—I build intelligent systems that solve meaningful problems."**
+📧 **varunharidas.in@gmail.com**
+
+🌐 **https://this-is-me-tau.vercel.app**
+
+💼 **www.linkedin.com/in/varun-haridas**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VARUN1128&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=VARUN1128&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
 
 <p align="center">
+
 If you like my work, consider giving a ⭐ to my repositories.
+
 </p>
