@@ -1,1 +1,277 @@
-<h1 align="center"> Hi, I'm Varun Haridas 👋 </h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Junior+AI+Engineer+from+India;Building+AI-powered+solutions;Deploying+LLM+and+CV+Models;Let%E2%80%99s+build+something+amazing!&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" alt="Typing SVG" /> </p> <p align="center"> <b>Junior AI Engineer | Kochi, India</b><br> <a href="https://www.linkedin.com/in/varun-haridas/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://github.com/VARUN1128" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p> --- ## 💡 About Me I’m an early-career **AI Engineer**, passionate about building **scalable, production-ready AI systems**. With experience in machine learning, real-time data pipelines, and full-stack development, I enjoy blending AI models with robust backend infrastructures. - 🛠️ **Exploring:** Advanced DevOps, CI/CD, scalable LLM deployment. - ⚙️ **Skilled in:** ML pipelines, MQTT telemetry, REST APIs, Computer Vision & LLM integration. - 🤝 **Open to:** Freelance projects, collaborations, and innovative problem-solving. - 💬 **Let’s discuss:** AI/ML solutions, backend architecture, or impactful project ideas. 📫 **Reach me at:** [varunharidas.in@gmail.com](mailto:varunharidas.in@gmail.com) 🌐 **Portfolio:** [this-is-me-tau.vercel.app](https://this-is-me-tau.vercel.app/) --- ## 🛠️ Tech Stack & Toolkit <p align="center"> <!-- Supported by skillicons --> <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,nodejs,express,docker,supabase,cpp,pytorch,tensorflow,flask,firebase,mongodb,mysql,linux,git,vscode,vercel" alt="Tech Stack Icons"/> <!-- Custom Icons: OpenCV & Keras --> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="45" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="45" height="40"/> </p> <p align="center"> <i>Also experienced with:</i> <b>Jupyter</b>, <b>MQTT</b>, <b>Pandas</b>, <b>NumPy</b>, <b>Matplotlib</b>, <b>Postman</b>, <b>SNAP (ESA)</b> </p> --- ## 🚀 Featured Projects ### 🍲 AI-Powered Cooking System An automated curry-making system integrating AI-controlled ingredients dispensing and cooking logic. **Key Tech:** Python, ML models, Automation, Embedded Systems [🔗 View Project Demo](https://tinyurl.com/y4am659r) --- ### 🥥 Coconut Maturity Detection A Computer Vision-based model predicting coconut maturity with **87.91% accuracy**, supporting precision agriculture. **Key Tech:** Python, OpenCV, PyTorch, TensorFlow [🔗 View Project](https://tinyurl.com/y4am659r) --- <p align="center"> <a href="https://tinyurl.com/y4am659r" target="_blank"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="AI Animation"/> </a> </p> --- ## 📊 GitHub Insights <!-- 🏆 Trophies --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=radical&no-frame=true&margin-w=15&column=3" alt="GitHub Trophies" /> </p> <!-- ⚡ Current Streak + 🔥 Hardcoded Longest Streak --> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=radical&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /> <img src="https://img.shields.io/badge/🔥 Longest Streak-110 days-purple?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak Badge" /> </p> <!-- 📈 GitHub Stats + 💻 Top Languages (fixed) --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&hide=jupyter%20notebook,css,html,shell,dockerfile,markdown,power-shell,vue,php,go&langs_count=6&theme=radical" alt="Top Languages" /> </p> --- ## 🏆 Achievements & Certifications - 🏅 **Winner:** Money Conclave ’24 (AI-driven financial prediction model) - 🥈 **Runner-up:** Dev Summit ’23, PERCEPTION Hackathon, Rural India Agri Hackathon - 🎖️ **Finalist:** V-Guard Big Idea Design Competition (Top 8) **Certifications:** - SQL Advanced Certification - Software Engineer Certification - Google Analytics Certified - Geo-Mapping Certification (NSS) - Cambridge Linguaskill Business English (B2) --- ## 📈 Contribution Graph <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=react-dark&hide_border=true&point=FFFFFF&area=true" alt="Contribution Graph" /> </p> --- <p align="center"> Building real-world AI solutions | 💬 Let’s collaborate! </p>
+<h1 align="center">
+  Hi, I'm Varun Haridas 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+AI+Engineer;Building+Production-Ready+AI+Systems;Machine+Learning+%7C+Computer+Vision+%7C+LLMs;Full+Stack+Developer;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <b>Junior AI Engineer • Full Stack Developer • AI Enthusiast</b>
+  <br>
+  Kochi, Kerala 🇮🇳
+</p>
+
+<p align="center">
+  <a href="mailto:varunharidas.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/varun-haridas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/VARUN1128">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://this-is-me-tau.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+
+I'm **Varun Haridas**, a passionate **Junior AI Engineer** focused on building intelligent applications that solve real-world problems.
+
+I enjoy combining **Machine Learning**, **Computer Vision**, **LLMs**, and **Backend Engineering** to create scalable, production-ready AI systems.
+
+- 🤖 Building AI-powered products
+- 🚀 Exploring LLMs, RAG & AI Agents
+- 🧠 Computer Vision & Deep Learning enthusiast
+- ⚙️ Backend API Development
+- 🌱 Currently learning DevOps, Kubernetes & MLOps
+- 💬 Ask me about AI, ML, Python, React or Next.js
+- 🤝 Open for Freelance, Collaborations & AI Projects
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" />
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,supabase" />
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+</p>
+
+### 🛢 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,vercel,postman" />
+</p>
+
+### 📚 Also Worked With
+
+- MQTT
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- SNAP (ESA)
+- REST APIs
+- Computer Vision
+- Deep Learning
+- LLM Integration
+
+---
+
+# 🚀 Featured Projects
+
+## 🥥 Coconut Maturity Detection
+
+Computer Vision system for detecting coconut maturity with **87.91% accuracy**, supporting precision agriculture.
+
+**Tech Stack**
+
+- Python
+- OpenCV
+- TensorFlow
+- PyTorch
+
+🔗 **Demo**
+
+https://tinyurl.com/y4am659r
+
+---
+
+## 🍲 AI Powered Cooking System
+
+AI-based automated cooking assistant integrating ingredient dispensing and cooking automation.
+
+**Tech Stack**
+
+- Python
+- Machine Learning
+- Automation
+- Embedded Systems
+
+🔗 **Demo**
+
+https://tinyurl.com/y4am659r
+
+---
+
+## 🤖 AI Blog Generator
+
+Generate high-quality blogs using Gemini API with FastAPI backend.
+
+**Tech Stack**
+
+- FastAPI
+- Gemini API
+- Python
+- REST APIs
+
+---
+
+## 📍 SAR Ship Detection
+
+Deep Learning model for ship detection from Sentinel-1 SAR satellite imagery.
+
+**Tech Stack**
+
+- PyTorch
+- Computer Vision
+- Remote Sensing
+- GIS
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VARUN1128&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARUN1128&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VARUN1128&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🥇 Winner — Money Conclave 2024
+
+🥈 Runner-up — Dev Summit 2023
+
+🥈 Runner-up — PERCEPTION Hackathon
+
+🥈 Runner-up — Rural India Agri Hackathon
+
+🏆 Finalist — V-Guard Big Idea Design Competition (Top 8)
+
+---
+
+# 📜 Certifications
+
+- NPTEL Deep Learning (Elite)
+- SQL Advanced Certification
+- Software Engineer Certification
+- Google Analytics Certified
+- Cambridge Linguaskill Business English (B2)
+- Geo Mapping Certification
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/VARUN1128">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varun-haridas/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:varunharidas.in@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"I don't just build software—I build intelligent systems that solve meaningful problems."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VARUN1128&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
