@@ -4,7 +4,7 @@ Needs a personal access token (secret GH_PAT, scope: read:user) so private-repo
 contributions are included. Also turn on
 Profile -> Contribution settings -> "Include private contributions on my profile".
 """
-import json, math, os, sys, urllib.request
+import json, math, os, sys, urllib.error, urllib.request
 
 USER = os.environ.get("GH_USER", "VARUN1128")
 PAT = os.environ.get("GH_PAT")
@@ -34,8 +34,18 @@ def fetch():
         headers={"Authorization": f"Bearer {PAT}", "Content-Type": "application/json",
                  "User-Agent": "contrib-graph"},
     )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)["data"]["user"]["contributionsCollection"]
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            payload = json.load(r)
+    except urllib.error.HTTPError as e:
+        print(f"ERROR: GitHub returned HTTP {e.code}: {e.read().decode()[:300]}")
+        if e.code == 401:
+            print("-> The GH_PAT token is invalid or expired. Create a new token and update the secret.")
+        sys.exit(1)
+    if "errors" in payload or not payload.get("data", {}).get("user"):
+        print("ERROR: GraphQL problem:", json.dumps(payload)[:500])
+        sys.exit(1)
+    return payload["data"]["user"]["contributionsCollection"]
 
 
 def render(weeks, total, private):
