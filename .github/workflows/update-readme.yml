@@ -2,7 +2,7 @@ name: Update README (live data)
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -24,12 +24,12 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build contribution graph (includes private repos)
+      - name: Build contribution graph
         continue-on-error: true
         run: python3 scripts/contrib_graph.py
         env:
           GH_USER: ${{ github.repository_owner }}
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
