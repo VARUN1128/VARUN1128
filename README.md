@@ -238,9 +238,7 @@ _Syncing your latest repositories..._
 
 <div align="center">
 
-<a href="https://github.com/VARUN1128">
-<img src="https://ghchart.rshah.org/00ff9c/VARUN1128" alt="VARUN1128 contribution calendar" width="100%"/>
-</a>
+<img src="assets/contributions.svg" alt="Contribution graph including private repositories" width="100%"/>
 
 <br/>
 
