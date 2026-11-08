@@ -58,8 +58,14 @@
 
 <!--STATS:START-->
 ```text
- user@github  ~  fetching live data ...
- (auto-refreshed every 6 hours by GitHub Actions)
+ VARUN1128@github  ~  status
+ ─────────────────────────────────────────────
+ public repos ........ 126
+ followers ........... 25
+ stars earned ........ 58
+ top languages ....... Python (24) · TypeScript (22) · Jupyter Notebook (10)
+ recent commits ...... 0 (last ~90 days of public events)
+ last synced ......... 2026-11-08 06:49 UTC
 ```
 <!--STATS:END-->
 
@@ -203,7 +209,14 @@ sequenceDiagram
 ### `~/repos --latest` &nbsp;🟢 live from GitHub API
 
 <!--REPOS:START-->
-_Syncing your latest repositories..._
+| Repository | Language | ⭐ | Last push |
+|:--|:--|:-:|:--|
+| [**fine-jar**](https://github.com/VARUN1128/fine-jar)<br/><sub></sub> | TypeScript | 0 | 2026-11-05 |
+| [**vailappilli-temple**](https://github.com/VARUN1128/vailappilli-temple)<br/><sub></sub> | TypeScript | 0 | 2026-11-04 |
+| [**abiah-birthday**](https://github.com/VARUN1128/abiah-birthday)<br/><sub></sub> | TypeScript | 0 | 2026-10-14 |
+| [**remindAI**](https://github.com/VARUN1128/remindAI)<br/><sub></sub> | TypeScript | 0 | 2026-10-07 |
+| [**kasting-kompany**](https://github.com/VARUN1128/kasting-kompany)<br/><sub></sub> | TypeScript | 0 | 2026-10-04 |
+| [**kk**](https://github.com/VARUN1128/kk)<br/><sub></sub> | TypeScript | 0 | 2026-10-04 |
 <!--REPOS:END-->
 
 ## `~/achievements` &nbsp;unlocked
