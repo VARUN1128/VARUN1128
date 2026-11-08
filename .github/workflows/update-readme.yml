@@ -15,21 +15,28 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
       - name: Fetch live data and rewrite README
+        continue-on-error: true
         run: python3 scripts/update_readme.py
         env:
           GH_USER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build contribution graph (includes private repos)
+        continue-on-error: true
         run: python3 scripts/contrib_graph.py
         env:
           GH_USER: ${{ github.repository_owner }}
           GH_PAT: ${{ secrets.GH_PAT }}
+
       - name: Commit changes
         run: |
           git config user.name "readme-bot"
           git config user.email "readme-bot@users.noreply.github.com"
-          git add README.md assets/contributions.svg
+          git add README.md
+          if [ -f assets/contributions.svg ]; then git add assets/contributions.svg; fi
           git diff --cached --quiet || git commit -m "chore: refresh live stats"
+          git pull --rebase
           git push
