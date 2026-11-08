@@ -232,7 +232,9 @@ _Syncing your latest repositories..._
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VARUN1128&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff9c&line=00d4ff&point=ffffff&area_color=00d4ff" width="100%"/>
+<a href="https://github.com/VARUN1128">
+<img src="https://ghchart.rshah.org/00ff9c/VARUN1128" alt="VARUN1128 contribution calendar" width="100%"/>
+</a>
 
 <br/>
 
