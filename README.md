@@ -224,7 +224,13 @@ _Syncing your latest repositories..._
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VARUN1128&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12"/>
+<img src="https://img.shields.io/badge/🏆%20WINNER-Money%20Conclave%202024-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117"/>
+<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-Dev%20Summit%202023-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-PERCEPTION%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-Rural%20India%20Agri%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/🏅%20FINALIST-V--Guard%20Big%20Idea%20Design-0d1117?style=for-the-badge&labelColor=8957e5&color=0d1117"/>
 
 </div>
 
