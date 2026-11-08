@@ -242,13 +242,14 @@ sequenceDiagram
 
 </div>
 
+
 ## `~/activity` &nbsp;contribution graph
 
 <div align="center">
 
-<img src="assets/contributions.svg" alt="Contribution graph including private repositories" width="100%"/>
+<img src="https://raw.githubusercontent.com/VARUN1128/VARUN1128/main/assets/contributions.svg" alt="Contribution graph" width="100%"/>
 
-<br/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARUN1128/VARUN1128/output/github-snake-dark.svg"/>
