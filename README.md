@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,35:00d4ff,70:8957e5,100:0d1117&height=240&section=header&text=VARUN%20HARIDAS&fontSize=62&fontColor=0d1117&fontAlignY=38&desc=%3E_%20AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20MBA%20Candidate&descSize=20&descAlignY=60&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/VARUN1128">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%3E_+booting+varun.exe+...+OK;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Detecting+ships+from+orbit+%F0%9F%9B%B0%EF%B8%8F;Shipping+AI+from+notebook+to+production+%F0%9F%9A%80;sudo+make+me+an+AI+engineer+%E2%9C%94" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=200&lines=%24+ssh+varun%40github.com;Connecting...+%E2%9C%94+access+granted;%24+whoami;varun-haridas+%E2%80%94+junior+ai+engineer;%24+cat+mission.txt;build+AI+that+ships%2C+not+just+AI+that+demos;%24+status+--now;open+to+freelance+%7C+research+%7C+collabs+%F0%9F%9F%A2" alt="terminal intro"/>
 </a>
 
 </div>
@@ -15,6 +15,17 @@
 ╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║
  ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+```text
+       .---.          varun@github
+      / o o \         ───────────────────────────────────────────
+     |   >   |        Location ..... Kochi, India
+      \ \_/ /         Role ......... Junior AI Engineer
+    ___/'---'\___     Education .... B.Tech CS (AI) + MBA @ The School of Future
+   /  |       |  \    Focus ........ Computer Vision · LLMs · MLOps
+  (___|_______|___)   Shell ........ python · typescript · c++
+                      Status ....... 🟢 open to freelance / research / collabs
 ```
 
 <div align="center">
@@ -65,7 +76,7 @@
  stars earned ........ 58
  top languages ....... Python (24) · TypeScript (22) · Jupyter Notebook (10)
  recent commits ...... 0 (last ~90 days of public events)
- last synced ......... 2026-11-08 07:06 UTC
+ last synced ......... 2026-11-08 06:49 UTC
 ```
 <!--STATS:END-->
 
@@ -242,22 +253,13 @@ sequenceDiagram
 
 </div>
 
-
 ## `~/activity` &nbsp;contribution graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/VARUN1128/VARUN1128/main/assets/contributions.svg" alt="Contribution graph" width="100%"/>
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VARUN1128/VARUN1128/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VARUN1128/VARUN1128/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/VARUN1128/VARUN1128/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
+<!--GRAPH:START-->
+```text
+ >_ syncing contribution graph ...
+```
+<!--GRAPH:END-->
 
 ## `~/contact`
 
