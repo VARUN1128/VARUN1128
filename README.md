@@ -71,12 +71,12 @@
 ```text
  VARUN1128@github  ~  status
  ─────────────────────────────────────────────
- public repos ........ 126
+ public repos ........ 127
  followers ........... 25
- stars earned ........ 58
- top languages ....... Python (24) · TypeScript (22) · Jupyter Notebook (10)
+ stars earned ........ 64
+ top languages ....... Python (24) · TypeScript (23) · Jupyter Notebook (10)
  recent commits ...... 0 (last ~90 days of public events)
- last synced ......... 2026-11-08 06:49 UTC
+ last synced ......... 2026-11-08 17:49 UTC
 ```
 <!--STATS:END-->
 
@@ -217,12 +217,12 @@ sequenceDiagram
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |:--|:--|:-:|:--|
-| [**fine-jar**](https://github.com/VARUN1128/fine-jar)<br/><sub></sub> | TypeScript | 0 | 2026-11-05 |
-| [**vailappilli-temple**](https://github.com/VARUN1128/vailappilli-temple)<br/><sub></sub> | TypeScript | 0 | 2026-11-04 |
+| [**vailappilli-temple**](https://github.com/VARUN1128/vailappilli-temple)<br/><sub></sub> | TypeScript | 0 | 2026-11-08 |
+| [**luker-fanops-ai**](https://github.com/VARUN1128/luker-fanops-ai)<br/><sub></sub> | TypeScript | 0 | 2026-11-08 |
+| [**fine-jar**](https://github.com/VARUN1128/fine-jar)<br/><sub></sub> | TypeScript | 1 | 2026-11-05 |
 | [**abiah-birthday**](https://github.com/VARUN1128/abiah-birthday)<br/><sub></sub> | TypeScript | 0 | 2026-10-14 |
-| [**remindAI**](https://github.com/VARUN1128/remindAI)<br/><sub></sub> | TypeScript | 0 | 2026-10-07 |
-| [**kasting-kompany**](https://github.com/VARUN1128/kasting-kompany)<br/><sub></sub> | TypeScript | 0 | 2026-10-04 |
-| [**kk**](https://github.com/VARUN1128/kk)<br/><sub></sub> | TypeScript | 0 | 2026-10-04 |
+| [**remindAI**](https://github.com/VARUN1128/remindAI)<br/><sub></sub> | TypeScript | 1 | 2026-10-07 |
+| [**kasting-kompany**](https://github.com/VARUN1128/kasting-kompany)<br/><sub></sub> | TypeScript | 1 | 2026-10-04 |
 <!--REPOS:END-->
 
 ## `~/achievements` &nbsp;unlocked
@@ -257,7 +257,17 @@ sequenceDiagram
 
 <!--GRAPH:START-->
 ```text
- >_ syncing contribution graph ...
+ >_ 156 contributions in the last year (incl. 81 private)
+
+ Sun ··░···░·▒··░········░░░·░·····░·░·······░·····░░····█
+ Mon ░···░·░··········░·········░··░░····░··░····░······· 
+ Tue ····░░········░·░········░··░·········░········░░··· 
+ Wed ··············░····░·········░············░······░·· 
+ Thu ·······░············░·░··········░·················░ 
+ Fri ··░···░░·░········░········░░░▒░········░····░░··░░· 
+ Sat ·····░····░·····░············░····▒·······░········· 
+
+ less · ░ ▒ ▓ █ more
 ```
 <!--GRAPH:END-->
 
