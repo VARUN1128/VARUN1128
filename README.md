@@ -82,17 +82,13 @@
 
 ```mermaid
 flowchart LR
-    A(["💡 Problem"]) --> B["📊 Data + EDA<br/>Pandas • NumPy"]
-    B --> C["🧠 Model<br/>PyTorch • TensorFlow • OpenCV"]
-    C --> D["⚡ Serve<br/>FastAPI • Flask"]
-    D --> E["🎨 Interface<br/>React • Next.js"]
-    E --> F["🐳 Docker + CI/CD"]
-    F --> G(["🚀 Production"])
-    G -. "feedback loop" .-> B
-
-    style A fill:#0d1117,stroke:#00ff9c,color:#00ff9c
-    style C fill:#0d1117,stroke:#8957e5,color:#c9d1d9
-    style G fill:#0d1117,stroke:#00d4ff,color:#00d4ff
+    A([Problem]) --> B[Data and EDA<br>Pandas, NumPy]
+    B --> C[Model<br>PyTorch, TensorFlow, OpenCV]
+    C --> D[Serve<br>FastAPI, Flask]
+    D --> E[Interface<br>React, Next.js]
+    E --> F[Docker and CI/CD]
+    F --> G([Production])
+    G -.->|feedback loop| B
 ```
 
 ## `~/stack` &nbsp;modules loaded
@@ -194,13 +190,12 @@ Generates complete blog posts using **Google's Gemini API** behind a FastAPI bac
 
 ```mermaid
 sequenceDiagram
-    autonumber
-    participant S as 🛰 Sentinel-1
-    participant P as SNAP (ESA)
-    participant M as 🧠 PyTorch Model
+    participant S as Sentinel-1
+    participant P as SNAP
+    participant M as PyTorch Model
     participant G as QGIS
     S->>P: Raw SAR scene
-    P->>M: Calibrated, filtered image tiles
+    P->>M: Calibrated image tiles
     M->>M: Detect ship candidates
     M->>G: Detections with coordinates
     G-->>S: Map layer of vessels
@@ -278,6 +273,7 @@ freelance · research · collaborations · open-source
 <a href="mailto:varunharidas.in@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20varunharidas.in@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
 <a href="https://this-is-me-tau.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff"/></a>
 <a href="https://www.linkedin.com/in/varun-haridas/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8957e5"/></a>
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&lines=%E2%AD%90+Star+a+repo+if+you+like+my+work;exit+0+%E2%80%94+thanks+for+visiting!" alt="footer"/>
