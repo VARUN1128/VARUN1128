@@ -237,13 +237,13 @@ sequenceDiagram
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆%20WINNER-Money%20Conclave%202024-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117"/>
-<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-Dev%20Summit%202023-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20WINNER-Money%20Conclave%202024-0d1117?style=for-the-badge&labelColor=00ff9c&color=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-Dev%20Summit%202023-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
 <br/>
-<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-PERCEPTION%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
-<img src="https://img.shields.io/badge/🥈%20RUNNER--UP-Rural%20India%20Agri%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-PERCEPTION%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-Rural%20India%20Agri%20Hackathon-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117"/>
 <br/>
-<img src="https://img.shields.io/badge/🏅%20FINALIST-V--Guard%20Big%20Idea%20Design-0d1117?style=for-the-badge&labelColor=8957e5&color=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%85%20FINALIST-V--Guard%20Big%20Idea%20Design-0d1117?style=for-the-badge&labelColor=8957e5&color=0d1117"/>
 
 </div>
 
@@ -275,10 +275,9 @@ freelance · research · collaborations · open-source
 
 <div align="center">
 
-<a href="mailto:varunharidas.in@gmail.com"><img src="https://img.shields.io/badge/📧%20varunharidas.in@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
-<a href="https://this-is-me-tau.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff"/></a>
-<a href="https://www.linkedin.com/in/varun-haridas/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8957e5"/></a>
-
+<a href="mailto:varunharidas.in@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7%20varunharidas.in@gmail.com-0d1117?style=for-the-badge&labelColor=0d1117&color=00ff9c"/></a>
+<a href="https://this-is-me-tau.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff"/></a>
+<a href="https://www.linkedin.com/in/varun-haridas/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=8957e5"/></a>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&lines=%E2%AD%90+Star+a+repo+if+you+like+my+work;exit+0+%E2%80%94+thanks+for+visiting!" alt="footer"/>
