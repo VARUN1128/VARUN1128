@@ -76,7 +76,7 @@
  stars earned ........ 62
  top languages ....... TypeScript (27) · Python (24) · Jupyter Notebook (10)
  recent commits ...... 0 (last ~90 days of public events)
- last synced ......... 2026-11-17 01:46 UTC
+ last synced ......... 2026-11-17 15:46 UTC
 ```
 <!--STATS:END-->
 
@@ -217,8 +217,8 @@ sequenceDiagram
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |:--|:--|:-:|:--|
+| [**nest-fold**](https://github.com/VARUN1128/nest-fold)<br/><sub></sub> | TypeScript | 0 | 2026-11-17 |
 | [**varun-haridas**](https://github.com/VARUN1128/varun-haridas)<br/><sub></sub> | TypeScript | 0 | 2026-11-15 |
-| [**nest-fold**](https://github.com/VARUN1128/nest-fold)<br/><sub></sub> | TypeScript | 0 | 2026-11-15 |
 | [**onit-survey**](https://github.com/VARUN1128/onit-survey)<br/><sub></sub> | TypeScript | 0 | 2026-11-14 |
 | [**ezer**](https://github.com/VARUN1128/ezer)<br/><sub></sub> | TypeScript | 0 | 2026-11-13 |
 | [**fine-jar**](https://github.com/VARUN1128/fine-jar)<br/><sub></sub> | TypeScript | 1 | 2026-11-09 |
