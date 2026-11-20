@@ -71,12 +71,12 @@
 ```text
  VARUN1128@github  ~  status
  ─────────────────────────────────────────────
- public repos ........ 131
+ public repos ........ 132
  followers ........... 24
- stars earned ........ 62
- top languages ....... TypeScript (27) · Python (24) · Jupyter Notebook (10)
+ stars earned ........ 60
+ top languages ....... TypeScript (27) · Python (23) · Jupyter Notebook (10)
  recent commits ...... 0 (last ~90 days of public events)
- last synced ......... 2026-11-19 15:31 UTC
+ last synced ......... 2026-11-20 00:29 UTC
 ```
 <!--STATS:END-->
 
@@ -217,12 +217,12 @@ sequenceDiagram
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |:--|:--|:-:|:--|
+| [**two-of-us**](https://github.com/VARUN1128/two-of-us)<br/><sub></sub> | - | 0 | 2026-11-19 |
 | [**nest-fold**](https://github.com/VARUN1128/nest-fold)<br/><sub></sub> | TypeScript | 0 | 2026-11-17 |
 | [**varun-haridas**](https://github.com/VARUN1128/varun-haridas)<br/><sub></sub> | TypeScript | 0 | 2026-11-15 |
 | [**onit-survey**](https://github.com/VARUN1128/onit-survey)<br/><sub></sub> | TypeScript | 0 | 2026-11-14 |
 | [**ezer**](https://github.com/VARUN1128/ezer)<br/><sub></sub> | TypeScript | 0 | 2026-11-13 |
 | [**fine-jar**](https://github.com/VARUN1128/fine-jar)<br/><sub></sub> | TypeScript | 1 | 2026-11-09 |
-| [**vailappilli-temple**](https://github.com/VARUN1128/vailappilli-temple)<br/><sub></sub> | TypeScript | 0 | 2026-11-08 |
 <!--REPOS:END-->
 
 ## `~/achievements` &nbsp;unlocked
@@ -257,14 +257,14 @@ sequenceDiagram
 
 <!--GRAPH:START-->
 ```text
- >_ 146 contributions in the last year (incl. 81 private)
+ >_ 147 contributions in the last year (incl. 81 private)
 
  Sun ·░···░·▒··░········░░░·░·····░·░·······░·····░░····█░
  Mon ···░·░··········░·········░··░░····░··░····░·········
  Tue ···░░········░·░········░··░·········░········░░·····
  Wed ·············░····░·········░············░······░····
- Thu ······░············░·░··········░·················░░·
- Fri ·░···░░·░········░········░░░▒░········░····░░··░░·░ 
+ Thu ······░············░·░··········░·················░░░
+ Fri ·░···░░·░········░········░░░▒░········░····░░··░░·░·
  Sat ····░····░·····░············░····▒·······░·········░ 
 
  less · ░ ▒ ▓ █ more
