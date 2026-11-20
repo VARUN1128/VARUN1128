@@ -74,9 +74,9 @@
  public repos ........ 132
  followers ........... 24
  stars earned ........ 60
- top languages ....... TypeScript (27) · Python (23) · Jupyter Notebook (10)
+ top languages ....... TypeScript (28) · Python (23) · Jupyter Notebook (10)
  recent commits ...... 0 (last ~90 days of public events)
- last synced ......... 2026-11-20 00:29 UTC
+ last synced ......... 2026-11-20 15:10 UTC
 ```
 <!--STATS:END-->
 
@@ -217,7 +217,7 @@ sequenceDiagram
 <!--REPOS:START-->
 | Repository | Language | ⭐ | Last push |
 |:--|:--|:-:|:--|
-| [**two-of-us**](https://github.com/VARUN1128/two-of-us)<br/><sub></sub> | - | 0 | 2026-11-19 |
+| [**two-of-us**](https://github.com/VARUN1128/two-of-us)<br/><sub></sub> | TypeScript | 0 | 2026-11-20 |
 | [**nest-fold**](https://github.com/VARUN1128/nest-fold)<br/><sub></sub> | TypeScript | 0 | 2026-11-17 |
 | [**varun-haridas**](https://github.com/VARUN1128/varun-haridas)<br/><sub></sub> | TypeScript | 0 | 2026-11-15 |
 | [**onit-survey**](https://github.com/VARUN1128/onit-survey)<br/><sub></sub> | TypeScript | 0 | 2026-11-14 |
